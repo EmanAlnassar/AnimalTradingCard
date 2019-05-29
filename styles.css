@@ -1,0 +1,32 @@
+body {
+  font-family: 'Sniglet', sans-serif;
+}
+#layout {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  margin: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  width: 300px;
+  background-color: #f88379;
+}
+
+.text-container {
+  font-size: 13px;
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.intro {
+  font-style: italic;
+}
+
+ul {
+  list-style: none;
+  text-indent: -40px
+}
+span {
+  font-weight: bold;
+}
